@@ -1,0 +1,31 @@
+
+body {
+    padding-top: 4.5rem;
+    padding-bottom: 6rem;
+}
+
+.footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+.card {
+    height: 100%;
+    position: relative;
+}
+
+.btn-danger {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+
+
