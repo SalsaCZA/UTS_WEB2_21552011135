@@ -205,8 +205,8 @@ if (isset($_GET['action']) && isset($_GET['book_id'])) {
 
 <body>
 
-<!-- Navbar -->
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
         <div class="container-fluid ">
             <a class="navbar-brand" href="#">PERPUSTAKAAN UTB</a>
         </div>
@@ -215,6 +215,7 @@ if (isset($_GET['action']) && isset($_GET['book_id'])) {
 
 
 
+    <!--content-->
     <div class="container mt-5">
         <h2>Daftar Buku</h2>
         <hr>
@@ -269,6 +270,8 @@ if (isset($_GET['action']) && isset($_GET['book_id'])) {
         </div>
         <!-- End Book Cards -->
     </div>
+
+    <!--End Content-->
 
     <!-- Footer -->
     <footer class="footer">
