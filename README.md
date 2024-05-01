@@ -1,4 +1,4 @@
 <ul>
-  <li>Tugas: Tugas Pertemuan 5</li>
+  <li>Tugas: UTS Pemrograman Web2</li>
   <li>Nama : Salsa Camelia Zahra</li>
 </ul>
